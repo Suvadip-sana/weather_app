@@ -18,6 +18,8 @@ body{
     align-items: center;
     justify-content: center;
     background: linear-gradient(180deg, #011d1f,#054556, #5c808a);
+    margin-bottom: auto;
+
 }
 
 .container{
@@ -27,6 +29,8 @@ body{
     background-color: #fff;
     padding: 20px;
     border-radius: 30px;
+    margin-bottom: auto;
+
 }
 
 .search i{
