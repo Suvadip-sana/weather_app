@@ -19,6 +19,7 @@ body{
     justify-content: center;
     background: linear-gradient(180deg, #011d1f,#054556, #5c808a);
     margin-bottom: auto;
+    position: relative;
 
 }
 
@@ -291,6 +292,10 @@ footer span{
         height: 30px;
         width: 30px;
     }
+    footer{
+        position: absolute;
+        bottom:0lvh;
+    }
 }
 
 
@@ -353,6 +358,10 @@ footer span{
     .weather-description img{
         height: 25px;
         width: 25px;
+    }
+    footer{
+        position: absolute;
+        bottom:0lvh;
     }
 }
 
