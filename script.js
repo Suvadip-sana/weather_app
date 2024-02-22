@@ -41,31 +41,31 @@ async function weatherCheck(city){
     switch(weather_data.weather[0].main){
 
         case 'Rain':
-            weather_status.src = "rain.gif";
+            weather_status.src = "/gif/rain.gif";
             break;
 
         case 'Clouds':
-            weather_status.src = "cloudy.gif";
+            weather_status.src = "/gif/cloudy.gif";
             break;
 
         case 'Mist':
-            weather_status.src = "mist.gif";
+            weather_status.src = "/gif/mist.gif";
             break;
 
         case 'Snow':
-            weather_status.src = "snow.gif";
+            weather_status.src = "/gif/snow.gif";
             break;
 
         case 'Clear':
-            weather_status.src = "clear.gif";
+            weather_status.src = "/gif/clear.gif";
             break; 
 
         case 'Haze':
-            weather_status.src = "mist.gif";
+            weather_status.src = "/gif/mist.gif";
             break; 
         
         case 'Fog':
-            weather_status.src = "mist.gif";
+            weather_status.src = "/gif/mist.gif";
 
     }
 }
