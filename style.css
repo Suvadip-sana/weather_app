@@ -132,7 +132,7 @@ body{
     margin-bottom: 5px;
     padding: 10px;
     background-color: rgb(221, 255, 252);
-    border-radius: 30px;
+    border-radius: 20px;
     margin-top: 5px;
     width: 120px;
 }
@@ -267,6 +267,7 @@ footer span{
 
     .humidity,.wind,.visibility{
         width: 80px;
+        border-radius: 10px;
     }
     .text span{
         font-size: 13px;
@@ -329,6 +330,7 @@ footer span{
 
     .humidity,.wind,.visibility{
         width: 68px;
+        border-radius: 8px;
     }
     .text span{
         font-size: 13px;
