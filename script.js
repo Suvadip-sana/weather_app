@@ -18,9 +18,7 @@ async function weatherCheck(city){
     const URL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}`;
     const weather_data = await fetch(`${URL}`).then(response => response.json());
 
-    console.log(weather_data);
-
-    
+        
     if(weather_data.cod === `404`){
 
         not_found.style.display = "flex";
