@@ -211,7 +211,7 @@ body{
 
 footer{
     text-align: center;
-    background: linear-gradient(180deg, #011d1f,#054556, #4a676f);
+    background-color: #011d1f;
     color: #cccccc;
     padding-block: 5px;
     position: absolute;
