@@ -68,6 +68,7 @@ async function weatherCheck(city){
         
         case 'Fog':
             weather_status.src = "mist.gif";
+            break;
 
     }
 }
