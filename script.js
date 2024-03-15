@@ -58,6 +58,9 @@ async function weatherCheck(city){
             weather_status.src = "clear.gif";
             break; 
 
+        case 'Smoke':
+            weather_status.src = "mist.gif";
+
         case 'Haze':
             weather_status.src = "mist.gif";
             break; 
