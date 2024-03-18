@@ -209,7 +209,7 @@ body{
     width: 75%;
 }
 
-footer{
+.footer{
     text-align: center;
     background-color: #011d1f;
     color: #cccccc;
@@ -228,7 +228,7 @@ footer{
     font-family: Arial, Arial, Helvetica, sans-serif;
 }
 
-footer span{
+.footer span{
     text-transform:uppercase;
     color: #ffffff;
 }
@@ -293,7 +293,7 @@ footer span{
         height: 30px;
         width: 30px;
     }
-    footer{
+    .footer{
         position: absolute;
         bottom:0lvh;
     }
@@ -360,7 +360,7 @@ footer span{
         height: 25px;
         width: 25px;
     }
-    footer{
+    .footer{
         position: absolute;
         bottom:0lvh;
     }
