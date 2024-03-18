@@ -210,7 +210,6 @@ body{
 }
 
 footer{
-    font-family: Arial;
     text-align: center;
     background-color: #011d1f;
     color: #cccccc;
@@ -225,10 +224,13 @@ footer{
     font-weight:100
 }
 
+.footer p{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
 footer span{
-    font-family: Arial;
     text-transform:uppercase;
-    color: #fff;
+    color: #ffffff;
 }
 
 @media screen and (max-width: 500px)  {
