@@ -210,6 +210,7 @@ body{
 }
 
 footer{
+    font-family: Arial
     text-align: center;
     background-color: #011d1f;
     color: #cccccc;
@@ -225,6 +226,7 @@ footer{
 }
 
 footer span{
+    font-family: Arial
     text-transform:uppercase;
     color: #fff;
 }
