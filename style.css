@@ -293,7 +293,7 @@ body{
         height: 30px;
         width: 30px;
     }
-    .footer{
+    footer{
         position: absolute;
         bottom:0lvh;
     }
@@ -360,7 +360,7 @@ body{
         height: 25px;
         width: 25px;
     }
-    .footer{
+    footer{
         position: absolute;
         bottom:0lvh;
     }
