@@ -15,13 +15,13 @@ Project about a API based weather forecasting app using HTML, CSS and JavaScript
 ##
 # How to use
 1. Fork/Clone this repository or download the files.
-2. Open the <mark> index.html </mark> file in your browser.
+2. Open the `index.html` file in your browser.
 3. Click the one button among three(rock, paper, scissor to start the game.
 4. The game will show the result after.
 ##
 # Files
-- index.html: Contains the structure of the web app.
-- style.css: Contains the styling for the web app.
-- script.js: Contains the JavaScript code that handles the game logic and UI updates.
+- `index.html`: Contains the structure of the web app.
+- `style.css`: Contains the styling for the web app.
+- `script.js`: Contains the JavaScript code that handles the game logic and UI updates.
 
 
