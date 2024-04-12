@@ -1,5 +1,5 @@
 # Weather Forcasting Web App
-Project about a API based weather forecasting app using HTML, CSS and JavaScript. Search by city name, display it's weather status like Temperature, Status, Humidity, Visibility and Wind Speed.
+Project about a API based weather forecasting app using HTML, CSS and JavaScript. Search by city name, display it's weather status like Temperature, Status, Humidity, Visibility and Wind Speed. Displaying status are in GIF format so it's more attractive.
 
 ### Mobile View
 ![Screenrecording](https://github.com/Suvadip-sana/weather_app/assets/78638404/e999ffd8-f064-4842-b119-8e2bfcb5171d) 
